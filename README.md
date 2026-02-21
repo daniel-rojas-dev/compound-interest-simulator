@@ -45,5 +45,5 @@ Donde:
 
   * **t**: Tiempo en años.
 
-##🧠 Reflexión Técnica
+## 🧠 Reflexión Técnica
 Se priorizó la legibilidad sobre la brevedad. Un código bien documentado reduce costos de mantenimiento y facilita el trabajo en equipo en entornos de ingeniería de software.
