@@ -1,7 +1,7 @@
-# compound-interest-simulator
+# Compound-interest-simulator
 Motor de cálculo financiero desarrollado en Python enfocado en buenas prácticas de programación, manejo de excepciones y documentación técnica.
 
-# 📈 Financial Logic Engine - Python
+# 📈 Calculador de Interes Compuesto - Python
 
 Este proyecto es una demostración de **limpieza de código (Clean Code)**, manejo de excepciones y documentación técnica en Python. El objetivo principal es mostrar una estructura de software profesional y mantenible.
 
